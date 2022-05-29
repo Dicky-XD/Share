@@ -1,5 +1,5 @@
 # TOOLS SHARE
-# Ini Adalah Tools Untuk Share Postingan Facebook Kamu
+$ Ini Adalah Tools Untuk Share Postingan Facebook Kamu
 # Perintah :
     $ pkg update && pkg upgrade
     $ pkg install git
